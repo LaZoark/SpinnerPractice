@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SpinnerPractice</string>
+    <string name="button">Put into cart</string>
+    <string name="textview">Your cart is empty!</string>
+    <string-array name="drinks">
+        <item >柳橙汁</item>
+        <item >奶茶</item>
+        <item >咖啡</item>
+        <item >水</item>
+    </string-array>
+<!--    <string-array name="ice">-->
+<!--        <item >溫</item>-->
+<!--        <item >去冰</item>-->
+<!--        <item >微冰</item>-->
+<!--        <item >少冰</item>-->
+<!--        <item >正常冰</item>-->
+<!--    </string-array>-->
+</resources>
